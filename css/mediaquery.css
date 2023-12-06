@@ -31,6 +31,14 @@
 
     .why-us .col-right {
         width: 100%;
-    } 
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us h2{
+        padding-top: 40px;
+    }
     
 }
